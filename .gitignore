@@ -1,0 +1,16 @@
+#ignore node module everywhere
+node_modules/ 
+
+#env variables
+.env
+.env.*
+
+#allow example env files
+!.env.example
+
+#build files
+dist/
+build/
+
+# logs
+npm-debug.log*

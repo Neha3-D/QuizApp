@@ -1,0 +1,9 @@
+/*
+  FILE: src/App.css
+  WHAT THIS FILE CARRIES:
+  - Style for the root <div className="App"> wrapper used in App.js.
+  - Only centers the text; all other styles live in index.css.
+*/
+.App {
+  text-align: center;
+}
